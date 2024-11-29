@@ -1,0 +1,6 @@
+*.ppt
+.DS_Store
+*.asv
+*.mat
+data/
+*.zip
